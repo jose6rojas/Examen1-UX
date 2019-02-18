@@ -1,7 +1,7 @@
 export const storeProducts = [
   {
     id: 1,
-    title: "Mancile Café",
+    title: "Granos de Café",
     img: "img/producto1-1.png",
     price: 100,
     company: "Mancile Café",
@@ -13,7 +13,7 @@ export const storeProducts = [
   },
   {
     id: 2,
-    title: "Amaranto",
+    title: "Pastel de Chocolate",
     img: "img/producto2.png",
     price: 25,
     company: "Amaranto",
@@ -25,7 +25,7 @@ export const storeProducts = [
   },
   {
     id: 3,
-    title: "504 Cake Shop",
+    title: "Magdalena de Vainilla",
     img: "img/producto3-2.png",
     price: 40,
     company: "504 Cake Shop",
@@ -37,7 +37,7 @@ export const storeProducts = [
   },
   {
     id: 4,
-    title: "Spooner's",
+    title: "Jalea de Fresa",
     img: "img/producto4.png",
     price: 90,
     company: "Spooner's",
@@ -49,7 +49,7 @@ export const storeProducts = [
   },
   {
     id: 5,
-    title: "Miel Trigona",
+    title: "Miel de Abeja",
     img: "img/producto5.png",
     price: 120,
     company: "Miel Trigona",
@@ -61,8 +61,8 @@ export const storeProducts = [
   },
   {
     id: 6,
-    title: "Palomitas Gourmet",
-    img: "img/producto6.png",
+    title: "Palomitas Caramelizadas",
+    img: "img/producto6-1.png",
     price: 50,
     company: "Palomitas Gourmet",
     info:
@@ -73,8 +73,8 @@ export const storeProducts = [
   },
   {
     id: 7,
-    title: "504 Cake Shop",
-    img: "img/producto7.png",
+    title: "Dona Glaseada de Fresa",
+    img: "img/producto7-1.png",
     price: 35,
     company: "504 Cake Shop",
     info:
@@ -85,7 +85,7 @@ export const storeProducts = [
   },
   {
     id: 8,
-    title: "Amaranto",
+    title: "Galleta de Chocolate",
     img: "img/producto8.png",
     price: 20,
     company: "Amaranto",

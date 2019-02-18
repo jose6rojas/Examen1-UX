@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
-import inicio from '../inicio.png';
+import inicio from '../inicio.svg';
 import styled from 'styled-components';
 import { ButtonContainer } from './Button';
 
@@ -9,7 +9,7 @@ export default class Navbar extends Component {
     return (
       <NavWrapper className="navbar navbar-expand-sm navbar-dark px-sm-5">
       <Link to="/">
-        {/* https://www.iconfinder.com/icons/2342209/asset_home_house_residence_icon */}
+        {/* https://www.webalys.com/ */}
         <img src={inicio} alt="Inicio" className="navbar-brand"/>
       </Link>
       <ul className="navbar-nav align-items-center">
