@@ -8,7 +8,7 @@ export default class ProductList extends Component {
     return (
       <div className="py-5">
         <div className="container">
-          <Title name="nuestros" title="productos"/>
+          <Title name="arma tu propia" title="caja"/>
           <div className="row">
             <ProductConsumer>
               {value => {
