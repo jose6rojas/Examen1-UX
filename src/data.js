@@ -99,8 +99,8 @@ export const storeProducts = [
 
 export const detailProduct = {
   id: 1,
-  title: "Mancile Café",
-  img: "img/producto1.jpg",
+  title: "Granos de Café",
+  img: "img/producto1-1.png",
   price: 100,
   company: "Mancile Café",
   info:
